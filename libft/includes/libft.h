@@ -6,7 +6,7 @@
 /*   By: ddowty <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/11/03 23:33:46 by ddowty            #+#    #+#             */
-/*   Updated: 2016/12/02 19:22:30 by ddowty           ###   ########.fr       */
+/*   Updated: 2016/12/23 16:35:02 by ddowty           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 # define LIBFT_H
 # include <string.h>
 # include <inttypes.h>
+# include <wchar.h>
 
 typedef struct		s_list
 {
