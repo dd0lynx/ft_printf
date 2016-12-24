@@ -2,7 +2,7 @@
 
 NAME	=	libftprintf.a
 CC		=	gcc
-FLAGS	=	-Wall -Wextra -Werror -fsanitize=address
+FLAGS	=	-Wall -Wextra -Werror
 ODIR	=	obj/
 IDIR	=	include/
 OBJ		=	$(SRC:.c=.o)
